@@ -1,4 +1,6 @@
-# Libertas — Core-Value Aligned Decision Framework demo
+Libertas — Core-Value Aligned Decision Framework
+
+Libertas — Core-Value Aligned Decision Framework | One file. Four weights. Full ethical audit.
 
 One-line: Lightweight, fully transparent decision framework that scores candidate actions against four core ethical principles (Autonomy, Transparency, Beneficence, Non-maleficence).
 
