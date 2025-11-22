@@ -1,0 +1,20 @@
+[
+  {
+    "label": "Full automation",
+    "explanation": "We will perform the task automatically without asking you for confirmation.",
+    "predicted_impact": 2.0,
+    "control_score": 0.0
+  },
+  {
+    "label": "Assistive mode (user-in-command)",
+    "explanation": "We give clear suggestions; you choose the final action.",
+    "predicted_impact": 1.0,
+    "control_score": 0.9
+  },
+  {
+    "label": "Manual safe mode",
+    "explanation": "We avoid risk and only provide minimal assistance to ensure no harm.",
+    "predicted_impact": 0.2,
+    "control_score": 1.0
+  }
+]
